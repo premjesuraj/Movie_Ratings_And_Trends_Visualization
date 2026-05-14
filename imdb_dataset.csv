@@ -1,0 +1,989 @@
+title,genre,year,rating,votes,revenue_m,runtime,decade
+Deadpool,Action,2014,7.7,6285,188.7,124,2010s
+Out for a Kill,Action,2010,6.5,3136,151.7,134,2010s
+Edge of Tomorrow,Action,1998,4.5,14905,92.4,128,1990s
+Total Recall,Action,1984,6.8,105701,136.4,146,1980s
+Dunkirk,Action,2014,6.4,24739,35.0,127,2010s
+Thor: Ragnarok,Action,1970,6.3,15609,168.8,106,1970s
+Hard to Kill,Action,1994,7.0,1910,111.9,108,1990s
+Fire Down Below,Action,1976,6.4,18291,229.9,102,1970s
+Commando,Action,1978,6.7,412940,158.8,117,1970s
+Commando,Action,1993,5.0,2616,71.9,82,1990s
+The Glimmer Man,Action,1970,5.7,13048,94.4,118,1970s
+Man of Steel,Action,2013,7.8,61528,197.1,107,2010s
+Die Hard,Action,1977,6.5,29693,79.2,116,1970s
+Captain America: Civil War,Action,1993,5.3,24835,92.1,116,1990s
+X-Men: Days of Future Past,Action,1980,5.7,25376,133.1,70,1980s
+Mad Max: Fury Road,Action,2020,6.0,7416,112.1,87,2020s
+The Glimmer Man,Action,1986,6.7,5715,89.9,107,1980s
+The Rock,Action,1977,6.2,40879,75.1,108,1970s
+Atomic Blonde,Action,2004,6.1,41038,181.9,116,2000s
+Mad Max: Fury Road,Action,2004,6.7,57286,236.0,117,2000s
+The Dark Knight Rises,Action,2002,7.0,82551,180.1,147,2000s
+No Time to Die,Action,1974,6.3,12737,131.7,117,1970s
+Thor: Ragnarok,Action,2011,6.2,12312,99.4,102,2010s
+Broken Arrow,Action,2008,6.4,38650,194.2,70,2000s
+First Blood,Action,2010,7.0,20767,201.1,75,2010s
+Eternals,Action,1997,6.6,25325,93.8,123,1990s
+Captain America: Civil War,Action,1976,7.1,38174,23.9,136,1970s
+Exit Wounds,Action,1978,5.6,67619,0.5,148,1970s
+Sicario,Action,1977,5.9,6830,44.2,89,1970s
+Cradle 2 the Grave,Action,1981,7.2,7876,210.9,102,1980s
+Shang-Chi,Action,2003,6.0,1860,212.8,116,2000s
+Taken,Action,2002,7.8,16064,164.0,161,2000s
+Belly of the Beast,Action,2017,7.9,994,187.9,112,2010s
+No Time to Die,Action,1992,7.7,10870,190.1,148,1990s
+48 Hrs,Action,1993,5.9,14192,104.3,114,1990s
+Edge of Tomorrow,Action,2006,6.7,5548,207.1,138,2000s
+Interstellar,Action,2004,6.3,16788,101.4,135,2000s
+Interstellar,Action,2013,7.5,917,248.5,114,2010s
+Non-Stop,Action,2009,8.1,1014,196.4,84,2000s
+Interstellar,Action,1991,7.3,43847,208.4,103,1990s
+Logan,Action,1996,6.6,7435,118.9,147,1990s
+Ant-Man,Action,2004,6.4,2396,100.0,131,2000s
+The Dark Knight Rises,Action,1970,7.0,13225,234.7,99,1970s
+Die Hard,Action,2004,5.7,33776,172.7,101,2000s
+Logan,Action,2006,7.1,4019,59.7,70,2000s
+Speed,Action,2016,6.0,18816,108.4,146,2010s
+Thor: Ragnarok,Action,1983,7.1,1725,211.9,132,1980s
+Predator,Action,1972,6.4,1220,26.6,106,1970s
+The Bourne Identity,Action,1970,6.2,13648,134.2,115,1970s
+Casino Royale,Action,1974,5.8,14093,116.8,70,1970s
+Gladiator,Action,1995,6.3,19834,80.1,97,1990s
+Exit Wounds,Action,1983,7.0,27919,135.1,143,1980s
+No Time to Die,Action,2008,7.5,219892,60.2,134,2000s
+Black Panther,Action,1996,7.1,12957,261.4,118,1990s
+Heat,Action,1978,7.6,6438,135.1,109,1970s
+Half Past Dead,Action,1984,8.6,38060,249.0,129,1980s
+X-Men: Days of Future Past,Action,1984,6.3,5187,145.6,102,1980s
+Mad Max: Fury Road,Action,1995,6.5,9901,211.5,70,1990s
+Out for Justice,Action,2011,5.6,1619,87.2,109,2010s
+Belly of the Beast,Action,1982,7.5,845,166.6,120,1980s
+No Time to Die,Action,2020,7.8,159488,245.5,138,2020s
+RoboCop,Action,2001,6.0,47247,169.6,73,2000s
+The Equalizer,Action,2008,7.2,24734,242.9,106,2000s
+Mission: Impossible,Action,2018,7.7,8897,177.0,108,2010s
+Non-Stop,Action,2021,6.9,3205,137.3,82,2020s
+Speed Racer,Action,2001,7.3,2901,250.8,122,2000s
+Lethal Weapon,Action,1973,6.7,4733,0.5,128,1970s
+Running Man,Action,1999,5.7,14519,197.0,102,1990s
+Wanted,Action,2006,7.5,26637,165.1,161,2000s
+Hell or High Water,Action,1992,7.7,21571,174.1,102,1990s
+Gladiator,Action,2008,7.3,5395,136.7,98,2000s
+Mad Max: Fury Road,Action,2014,6.0,138269,129.9,98,2010s
+The Terminator,Action,1984,6.0,29333,173.1,89,1980s
+Doctor Strange,Action,2012,5.8,14779,168.7,96,2010s
+Gladiator,Action,1998,7.3,18078,195.2,74,1990s
+Doctor Strange,Action,2005,7.7,9243,195.3,105,2000s
+Out for a Kill,Action,1982,6.9,4679,43.7,111,1980s
+Tenet,Action,2001,7.4,7318,122.6,70,2000s
+Casino Royale,Action,1976,5.8,31979,58.6,107,1970s
+Half Past Dead,Action,2020,6.9,694,203.5,111,2020s
+The Equalizer,Action,1991,5.5,2214,89.4,122,1990s
+Point Break,Action,1997,6.0,1137,171.4,140,1990s
+The Expendables,Action,1971,7.2,1062,157.6,131,1970s
+Interstellar,Action,2011,6.5,53117,152.5,94,2010s
+Black Panther,Action,2014,7.7,25495,337.3,91,2010s
+Assassination Games,Action,2022,7.2,11199,214.8,124,2020s
+The Grey,Action,1975,8.7,1920,168.1,96,1970s
+Edge of Tomorrow,Action,1997,6.7,11898,252.0,79,1990s
+Total Recall,Action,1997,5.5,11172,164.4,169,1990s
+Lethal Weapon,Action,2013,6.7,3203,268.6,102,2010s
+Fire Down Below,Action,2013,5.9,9724,120.9,94,2010s
+Interstellar,Action,1989,7.4,8567,217.4,70,1980s
+The Bourne Supremacy,Action,1999,6.7,18346,55.6,131,1990s
+Under Siege,Action,1980,6.4,19665,155.0,85,1980s
+48 Hrs,Action,1997,6.5,1127,122.9,110,1990s
+Cobra,Action,1994,7.2,7848,75.5,134,1990s
+X-Men: Days of Future Past,Action,2008,6.3,19018,199.6,85,2000s
+Man of Steel,Action,2002,7.3,12381,61.8,111,2000s
+Aquaman,Action,1970,7.3,53463,17.2,148,1970s
+Exit Wounds,Action,1996,6.4,21451,148.9,70,1990s
+Good Will Hunting,Drama,2006,7.9,767,197.1,117,2000s
+Apocalypse Now,Drama,1980,9.1,2020,322.2,118,1980s
+Phantom Thread,Drama,2005,7.5,38964,144.4,126,2000s
+Room,Drama,1982,7.5,3302,263.1,160,1980s
+Crash,Drama,2012,7.0,20982,212.9,105,2010s
+Selma,Drama,1972,6.5,4477,68.7,90,1970s
+The Revenant,Drama,2002,8.0,1946,236.3,75,2000s
+Zero Dark Thirty,Drama,1975,6.5,4582,164.4,91,1970s
+Whiplash,Drama,2019,7.5,27483,236.1,109,2010s
+Carol,Drama,1979,6.9,53196,32.6,154,1970s
+Three Billboards Outside Ebbing Missouri,Drama,1974,7.6,45728,105.2,97,1970s
+Darkest Hour,Drama,1992,7.6,8526,155.5,115,1990s
+The Artist,Drama,1979,8.1,22220,170.3,109,1970s
+Mystic River,Drama,2013,7.0,3804,208.8,139,2010s
+Whiplash,Drama,1971,7.0,5704,131.9,173,1970s
+The Green Mile,Drama,1982,6.5,71131,34.3,96,1980s
+The Favourite,Drama,2009,7.0,675,189.6,97,2000s
+Mystic River,Drama,1971,7.5,1728,177.8,136,1970s
+The Deer Hunter,Drama,1989,7.9,3861,212.4,127,1980s
+American Beauty,Drama,1970,6.5,861,164.8,156,1970s
+Coming Home,Drama,2006,8.1,3355,257.2,124,2000s
+Spotlight,Drama,1978,8.3,16334,209.2,101,1970s
+The Martian,Drama,1986,7.6,9304,159.0,124,1980s
+Three Billboards Outside Ebbing Missouri,Drama,1978,8.7,69056,97.9,137,1970s
+Lost in Translation,Drama,1980,6.6,42648,141.8,130,1980s
+Fight Club,Drama,1984,6.3,6932,121.3,122,1980s
+12 Years a Slave,Drama,1993,5.9,4933,119.9,136,1990s
+Portrait of a Lady on Fire,Drama,2007,8.6,7997,151.8,139,2000s
+Silver Linings Playbook,Drama,2004,7.9,16756,131.9,144,2000s
+Dallas Buyers Club,Drama,1999,7.3,5125,230.0,126,1990s
+Room,Drama,2000,7.6,18901,177.6,105,2000s
+One Flew Over the Cuckoo's Nest,Drama,2018,6.5,8912,198.5,113,2010s
+Prisoners,Drama,1974,9.2,14661,214.5,140,1970s
+21 Grams,Drama,2013,7.5,9802,193.4,89,2010s
+Apocalypse Now,Drama,2019,7.5,5735,255.1,119,2010s
+The Revenant,Drama,1983,7.8,124898,136.6,100,1980s
+Hacksaw Ridge,Drama,2022,7.8,32812,220.2,110,2020s
+The Hurt Locker,Drama,1980,7.4,2617,120.3,141,1980s
+Hacksaw Ridge,Drama,1978,6.6,57828,87.5,114,1970s
+JFK,Drama,2003,7.7,11726,169.0,111,2000s
+Room,Drama,1981,8.8,70106,218.5,76,1980s
+Eternal Sunshine of the Spotless Mind,Drama,2004,8.4,38952,188.1,128,2000s
+Zodiac,Drama,2004,8.6,9430,300.1,126,2000s
+There Will Be Blood,Drama,1970,6.8,805,58.3,164,1970s
+Requiem for a Dream,Drama,2009,6.6,5139,139.6,102,2000s
+JFK,Drama,1991,7.2,14142,126.8,115,1990s
+JFK,Drama,1998,7.4,19550,256.4,116,1990s
+Forrest Gump,Drama,1977,8.1,4899,184.2,149,1970s
+Sully,Drama,1980,5.9,2604,149.9,107,1980s
+Marshall,Drama,2010,8.6,46963,142.9,116,2010s
+Saving Private Ryan,Drama,2006,7.3,300871,191.2,125,2000s
+Saving Private Ryan,Drama,1983,6.9,13384,185.0,114,1980s
+Sully,Drama,1999,6.5,3175,139.7,98,1990s
+Bridge of Spies,Drama,2004,6.0,5220,184.7,114,2000s
+The Departed,Drama,1990,8.0,749,153.0,136,1990s
+Zodiac,Drama,2006,7.4,83389,263.8,84,2000s
+The Silence of the Lambs,Drama,1974,6.2,2242,230.7,113,1970s
+Schindler's List,Drama,1988,6.3,15965,91.8,92,1980s
+Boogie Nights,Drama,1983,7.0,5260,108.9,139,1980s
+12 Years a Slave,Drama,1995,8.7,14770,305.2,71,1990s
+Room,Drama,1973,7.0,20879,218.4,96,1970s
+Manchester by the Sea,Drama,1994,6.1,45606,81.4,119,1990s
+The Departed,Drama,2014,7.2,3832,155.6,149,2010s
+Bridge of Spies,Drama,2011,7.2,647,160.3,108,2010s
+One Flew Over the Cuckoo's Nest,Drama,1994,5.2,2562,0.5,96,1990s
+Born on the Fourth of July,Drama,1987,7.2,73343,93.3,157,1980s
+Molly's Game,Drama,1977,7.8,17182,114.3,70,1970s
+Marshall,Drama,2008,8.9,17372,239.5,121,2000s
+Forrest Gump,Drama,2009,8.3,21966,232.9,97,2000s
+The Two Popes,Drama,1983,7.0,3243,228.6,84,1980s
+One Flew Over the Cuckoo's Nest,Drama,2001,6.5,83480,77.3,127,2000s
+Sully,Drama,2020,9.5,9216,339.1,116,2020s
+Brooklyn,Drama,2007,7.4,8099,167.6,95,2000s
+Gone Girl,Drama,2002,7.4,13074,171.4,77,2000s
+Saving Private Ryan,Drama,1992,7.3,1151,198.9,131,1990s
+Zero Dark Thirty,Drama,1984,7.4,3077,85.4,126,1980s
+Born on the Fourth of July,Drama,2002,7.2,29350,189.3,107,2000s
+The Two Popes,Drama,1994,6.9,1686,154.8,156,1990s
+Marshall,Drama,1986,6.8,17535,160.7,83,1980s
+Fight Club,Drama,2002,7.3,4628,187.8,71,2000s
+21 Grams,Drama,2016,7.0,8284,322.5,92,2010s
+Gone Girl,Drama,1971,6.6,5599,66.9,108,1970s
+Argo,Drama,1983,7.4,7309,119.7,116,1980s
+The Artist,Drama,2022,7.3,27123,157.0,103,2020s
+12 Angry Men,Drama,2009,8.6,5799,197.5,118,2000s
+JFK,Drama,2009,5.3,15411,60.6,78,2000s
+21 Grams,Drama,2020,8.3,11273,303.3,146,2020s
+The Deer Hunter,Drama,2008,8.4,21854,306.8,107,2000s
+The Social Network,Drama,2020,5.8,106592,97.8,137,2020s
+The Favourite,Drama,1975,7.0,28682,76.1,118,1970s
+Spotlight,Drama,1975,6.9,4001,150.3,121,1970s
+Black Swan,Drama,1972,6.1,926,53.3,124,1970s
+Rain Man,Drama,1976,6.6,4996,149.2,121,1970s
+Django Unchained,Drama,2020,6.6,17041,176.2,126,2020s
+The Shawshank Redemption,Drama,1977,8.6,1216,101.5,143,1970s
+Darkest Hour,Drama,2011,8.2,12095,310.1,114,2010s
+Million Dollar Baby,Drama,2021,8.5,17147,349.0,127,2020s
+Apocalypse Now,Drama,1984,7.8,6731,132.0,107,1980s
+Birdman,Drama,2016,6.5,33918,131.9,146,2010s
+Game Night,Comedy,1992,5.3,8439,0.5,121,1990s
+Judd Apatow,Comedy,1981,7.2,14528,190.6,128,1980s
+Talladega Nights,Comedy,1982,7.2,30481,243.8,99,1980s
+Role Models,Comedy,1994,6.2,26734,169.0,143,1990s
+The Truman Show,Comedy,2014,6.5,13179,138.0,78,2010s
+High Fidelity,Comedy,2020,6.5,43798,67.7,143,2020s
+Synecdoche New York,Comedy,1988,5.1,9621,0.5,70,1980s
+Chasing Amy,Comedy,2015,7.8,71352,126.2,177,2010s
+Zack and Miri Make a Porno,Comedy,2005,5.9,1510,117.3,99,2000s
+Pineapple Express,Comedy,2014,5.9,137792,135.6,80,2010s
+Annie Hall,Comedy,1977,6.2,21134,148.5,104,1970s
+Scott Pilgrim vs. the World,Comedy,1998,7.2,8008,53.8,83,1990s
+Neighbors,Comedy,2022,6.1,3653,225.1,119,2020s
+Superbad,Comedy,2001,4.9,11396,114.9,144,2000s
+Observe and Report,Comedy,2020,5.8,3603,112.4,85,2020s
+Girls Trip,Comedy,2013,6.9,3078,96.2,124,2010s
+Get Him to the Greek,Comedy,1987,8.1,18445,259.3,71,1980s
+Neighbors,Comedy,1975,5.3,13264,40.0,135,1970s
+Stranger Than Fiction,Comedy,1987,5.3,22389,71.2,120,1980s
+Blades of Glory,Comedy,1988,5.2,97811,92.6,136,1980s
+The Squid and the Whale,Comedy,1991,5.1,13691,14.4,106,1990s
+Observe and Report,Comedy,2006,7.4,16214,162.3,99,2000s
+Forgetting Sarah Marshall,Comedy,2001,7.7,1792,237.1,130,2000s
+Happiness,Comedy,2010,6.6,26968,197.8,77,2010s
+High Fidelity,Comedy,1972,5.9,8611,124.8,70,1970s
+Four Weddings and a Funeral,Comedy,1997,7.9,225842,119.1,109,1990s
+Superbad,Comedy,1979,6.5,43984,96.6,100,1970s
+Punch-Drunk Love,Comedy,2020,7.4,13236,172.2,123,2020s
+Nick and Norah's Infinite Playlist,Comedy,2004,6.1,2332,150.3,137,2000s
+Love Actually,Comedy,1998,6.5,54472,153.7,123,1990s
+Rushmore,Comedy,2023,5.6,38937,136.9,135,2020s
+Clueless,Comedy,1984,6.9,3414,280.7,118,1980s
+Superbad,Comedy,2002,6.6,5755,125.0,122,2000s
+Pineapple Express,Comedy,1976,5.6,37729,46.7,107,1970s
+American Splendor,Comedy,1981,5.7,3426,11.8,121,1980s
+Scott Pilgrim vs. the World,Comedy,2018,7.8,86250,117.3,114,2010s
+Rushmore,Comedy,1999,8.0,9407,121.6,118,1990s
+Talladega Nights,Comedy,1990,6.2,1751,68.9,105,1990s
+Rough Night,Comedy,2000,6.5,42266,214.6,130,2000s
+I Heart Huckabees,Comedy,1993,6.7,7816,137.9,92,1990s
+Four Weddings and a Funeral,Comedy,1989,6.5,13421,134.4,109,1980s
+Ready or Not,Comedy,2006,5.1,2153,81.4,142,2000s
+The Other Guys,Comedy,1973,6.7,534,133.5,86,1970s
+Heathers,Comedy,1997,4.8,19874,148.5,70,1990s
+Pineapple Express,Comedy,2013,5.9,12907,8.0,119,2010s
+Napoleon Dynamite,Comedy,1989,6.8,16948,207.9,103,1980s
+Nacho Libre,Comedy,1993,6.9,37791,0.5,135,1990s
+Love Actually,Comedy,2019,5.9,20512,136.5,106,2010s
+Bad Teacher,Comedy,2018,6.2,3232,277.1,94,2010s
+Say Anything,Comedy,2020,6.1,7452,184.8,108,2020s
+Four Weddings and a Funeral,Comedy,2001,6.4,77166,155.6,137,2000s
+Annie Hall,Comedy,2010,6.5,33769,268.1,124,2010s
+Love Actually,Comedy,2005,7.0,14897,119.8,70,2000s
+Girls Trip,Comedy,2022,6.1,4850,172.4,114,2020s
+My Best Friend's Wedding,Comedy,2003,6.8,5918,186.3,115,2000s
+Girls Trip,Comedy,1971,6.5,51716,75.2,94,1970s
+Jerry Maguire,Comedy,1984,6.2,22502,72.2,139,1980s
+Adaptation,Comedy,2003,6.6,40915,148.8,141,2000s
+Cop Out,Comedy,2005,7.1,33267,198.8,70,2000s
+High Fidelity,Comedy,1975,7.0,2783,133.4,90,1970s
+Juno,Comedy,2008,7.9,9388,244.2,106,2000s
+I Heart Huckabees,Comedy,2011,5.7,2840,0.5,133,2010s
+Anchorman,Comedy,2020,6.2,4415,134.9,110,2020s
+Bottle Rocket,Comedy,2020,5.3,58140,50.6,92,2020s
+Adaptation,Comedy,2023,7.3,11149,213.7,127,2020s
+Bad Moms,Comedy,1981,6.1,13838,114.4,104,1980s
+Dogma,Comedy,1972,6.5,3300,95.5,107,1970s
+The 40-Year-Old Virgin,Comedy,2014,6.0,6169,163.4,109,2010s
+Home Alone,Comedy,1987,6.1,4311,164.3,124,1980s
+The Truman Show,Comedy,2009,7.5,3828,183.2,102,2000s
+Home Alone,Comedy,1990,7.0,19872,80.9,127,1990s
+Bad Neighbors,Comedy,1984,6.3,4877,13.9,108,1980s
+Happiness,Comedy,2002,7.1,19447,164.6,83,2000s
+Four Weddings and a Funeral,Comedy,2004,7.1,1319,179.3,109,2000s
+Rushmore,Comedy,1995,6.1,2646,55.8,84,1990s
+Rough Night,Comedy,1977,5.2,5271,99.9,111,1970s
+Clueless,Comedy,2005,5.8,17160,86.5,130,2000s
+Neighbors,Comedy,2017,5.5,22882,17.0,83,2010s
+Being John Malkovich,Comedy,1999,7.4,10033,246.2,119,1990s
+Napoleon Dynamite,Comedy,1992,7.5,10142,235.0,89,1990s
+Jay and Silent Bob Strike Back,Comedy,2011,7.8,27738,80.3,115,2010s
+Role Models,Comedy,2013,4.9,713,53.8,131,2010s
+Jay and Silent Bob Strike Back,Comedy,1983,7.2,6912,107.5,70,1980s
+Mrs. Doubtfire,Comedy,1983,8.1,42937,278.0,82,1980s
+Bad Moms,Comedy,1971,7.2,17539,123.2,100,1970s
+Role Models,Comedy,2006,4.8,6809,0.5,117,2000s
+The Other Guys,Comedy,1974,7.7,76916,205.7,105,1970s
+Groundhog Day,Comedy,2007,6.5,34186,70.6,108,2000s
+Home Alone,Comedy,2014,6.3,5054,129.2,161,2010s
+Clerks,Comedy,2010,6.9,20412,117.8,79,2010s
+Jerry Maguire,Comedy,2016,6.5,8651,211.4,101,2010s
+The Big Lebowski,Comedy,1983,7.7,7627,254.9,123,1980s
+Rushmore,Comedy,2008,7.0,6978,89.1,163,2000s
+Chasing Amy,Comedy,1994,6.5,18432,166.4,127,1990s
+Bridesmaids,Comedy,1989,6.5,10022,78.8,119,1980s
+Forgetting Sarah Marshall,Comedy,2008,6.4,22347,171.0,138,2000s
+Knocked Up,Comedy,1975,5.0,1490,0.5,90,1970s
+Ordeal by Innocence,Thriller,1988,7.8,27815,223.4,105,1980s
+Blue Velvet,Thriller,2000,6.6,6440,106.8,90,2000s
+Red Dragon,Thriller,1988,7.0,959070,180.9,105,1980s
+The Girl with the Dragon Tattoo,Thriller,2018,7.4,249991,285.3,72,2010s
+Clue,Thriller,2015,8.2,21247,200.6,136,2010s
+Rear Window,Thriller,1988,6.9,2442,185.3,101,1980s
+Red Dragon,Thriller,1991,6.5,23871,158.7,91,1990s
+The Mousetrap,Thriller,1993,6.7,1845,270.8,105,1990s
+Knives Out,Thriller,2014,8.1,901,186.5,137,2010s
+A Time to Kill,Thriller,1981,8.7,43932,248.9,113,1980s
+Manhunter,Thriller,1999,6.1,3898,21.2,74,1990s
+The Pelican Brief,Thriller,2007,6.3,7977,106.6,121,2000s
+Knives Out,Thriller,2022,7.1,205267,207.6,86,2020s
+Wild at Heart,Thriller,2000,7.2,6799,247.6,70,2000s
+Crooked House,Thriller,2005,7.8,5784,120.4,147,2000s
+Fracture,Thriller,1988,6.4,86642,164.8,121,1980s
+Us,Thriller,2017,6.4,2127,148.6,108,2010s
+Blue Velvet,Thriller,2014,7.3,32227,93.5,101,2010s
+Black Swan,Thriller,2005,7.0,363467,172.9,144,2000s
+The Talented Mr. Ripley,Thriller,1999,7.9,74142,293.3,187,1990s
+Fear,Thriller,2018,7.6,20898,134.4,121,2010s
+Unlawful Entry,Thriller,2002,7.6,6214,175.8,84,2000s
+Vertigo,Thriller,1987,7.0,4821,81.2,106,1980s
+Obsessed,Thriller,2021,9.1,43063,237.1,120,2020s
+Fatal Attraction,Thriller,2018,6.6,62625,247.5,70,2010s
+Wild at Heart,Thriller,1997,7.6,13372,160.1,118,1990s
+Red Dragon,Thriller,2016,6.2,4607,227.3,120,2010s
+Silence of the Lambs,Thriller,1980,6.2,2163,166.5,143,1980s
+Purple Noon,Thriller,2023,6.8,1753,153.8,140,2020s
+Lost Highway,Thriller,2014,8.5,27127,202.6,112,2010s
+Memento,Thriller,2002,7.4,9260,120.6,147,2000s
+Single White Female,Thriller,1986,6.6,76804,67.3,160,1980s
+The Shining,Thriller,1975,7.3,29554,159.2,110,1970s
+Escape Room: Tournament of Champions,Thriller,1973,7.0,3540,122.4,120,1970s
+Psycho,Thriller,1989,6.7,18211,93.4,70,1980s
+The Birds,Thriller,2017,6.1,9781,47.5,73,2010s
+Vertigo,Thriller,2016,8.4,16006,237.6,89,2010s
+Swimfan,Thriller,1996,7.3,29354,135.0,98,1990s
+North by Northwest,Thriller,1984,8.8,40220,197.1,82,1980s
+Swimfan,Thriller,1975,7.8,49438,176.3,109,1970s
+Ordeal by Innocence,Thriller,2016,7.7,4814,53.1,99,2010s
+Gone Girl,Thriller,1983,6.7,925,31.6,136,1980s
+Body Double,Thriller,1980,6.2,29507,237.8,98,1980s
+Presumed Innocent,Thriller,2008,7.0,2056,135.2,70,2000s
+Curtain,Thriller,1978,6.1,6235,0.5,113,1970s
+Manhunter,Thriller,1995,7.6,551,87.0,109,1990s
+The Perfect Guy,Thriller,1985,8.4,23398,343.1,88,1980s
+The Machinist,Thriller,1974,6.8,3093,74.6,112,1970s
+The Girl with the Dragon Tattoo,Thriller,2021,8.0,21180,290.7,83,2020s
+Oldboy,Thriller,1979,6.5,470055,118.1,118,1970s
+Seven,Thriller,2019,7.0,1531,149.7,175,2010s
+Ten Little Indians,Thriller,1972,6.4,1598,144.9,70,1970s
+The ABC Murders,Thriller,1982,5.4,6893,0.5,97,1980s
+Single White Female,Thriller,2012,7.2,57023,91.9,93,2010s
+The General's Daughter,Thriller,2018,7.3,4013,160.1,99,2010s
+Zodiac,Thriller,1999,8.0,7441,114.2,135,1990s
+Rian Johnson,Thriller,2023,7.9,1468,184.8,123,2020s
+Nope,Thriller,2014,7.9,32746,260.0,131,2010s
+Chinatown,Thriller,1975,6.2,8876,101.9,110,1970s
+Kiss the Girls,Thriller,1986,7.4,32179,235.0,76,1980s
+Double Jeopardy,Thriller,2014,8.5,75633,244.5,82,2010s
+Dressed to Kill,Thriller,2020,7.6,4364,263.5,128,2020s
+Parasite,Thriller,2022,8.7,40468,246.6,114,2020s
+The Shining,Thriller,1988,8.7,1328,174.2,141,1980s
+Countdown,Thriller,2011,7.0,72625,258.0,117,2010s
+Unlawful Entry,Thriller,2004,6.6,20829,102.2,80,2000s
+Murder on the Orient Express,Thriller,2015,6.6,60171,178.6,96,2010s
+Single White Female,Thriller,1995,5.9,502,152.1,124,1990s
+North by Northwest,Thriller,2020,6.8,3128,222.5,127,2020s
+North by Northwest,Thriller,1974,8.0,8299,94.9,131,1970s
+Dressed to Kill,Thriller,1998,5.4,7991,152.7,83,1990s
+Gone Girl,Thriller,2006,6.4,4239,80.5,79,2000s
+Mulholland Drive,Thriller,1989,7.0,8054,191.4,105,1980s
+Twin Peaks: Fire Walk with Me,Thriller,2018,6.5,2426,189.7,146,2010s
+The Talented Mr. Ripley,Thriller,1990,6.7,9020,181.1,92,1990s
+The Mousetrap,Thriller,1979,6.6,39443,42.5,121,1970s
+The General's Daughter,Thriller,1974,6.8,11391,152.1,121,1970s
+Body Double,Thriller,2005,6.6,743,211.1,129,2000s
+Ready or Not,Thriller,1975,6.4,9304,113.6,151,1970s
+Ripley's Game,Thriller,1995,7.9,870,136.9,149,1990s
+Presumed Innocent,Thriller,1973,7.9,171980,214.8,95,1970s
+North by Northwest,Thriller,2008,6.1,2403,136.4,70,2000s
+Sleeping with the Enemy,Thriller,2008,5.0,25908,0.5,93,2000s
+Pacific Heights,Thriller,2019,8.1,201503,169.0,111,2010s
+Primal Fear,Thriller,2004,6.2,44679,97.2,100,2000s
+Dressed to Kill,Thriller,1970,7.2,25061,218.3,159,1970s
+Cape Fear,Thriller,1993,5.9,48208,183.4,110,1990s
+Escape Room,Thriller,2005,8.2,269542,289.6,126,2000s
+North by Northwest,Thriller,1975,9.1,18712,223.9,115,1970s
+Chinatown,Thriller,2010,7.3,15029,234.8,101,2010s
+Vertigo,Thriller,2023,7.2,19182,123.2,70,2020s
+Crooked House,Thriller,2015,7.0,13711,174.4,108,2010s
+Glass Onion,Thriller,2013,7.8,19665,230.7,191,2010s
+Single White Female,Thriller,2000,7.6,10287,115.5,78,2000s
+Domestic Disturbance,Thriller,1989,7.9,4071,191.4,70,1980s
+North by Northwest,Thriller,1993,6.6,2283,232.8,158,1990s
+Mulholland Drive,Thriller,1994,7.4,1466,198.3,128,1990s
+Kiss the Girls,Thriller,2005,6.7,5019,205.1,114,2000s
+Silence of the Lambs,Thriller,1990,6.3,1139,0.5,144,1990s
+Clue,Thriller,1999,7.1,15453,252.3,89,1990s
+Longtime Companion,Romance,2003,6.9,18604,150.5,129,2000s
+Summerland,Romance,2008,7.2,70979,133.3,104,2000s
+The Price of Salt,Romance,1972,7.2,50474,177.4,116,1970s
+The Normal Heart,Romance,1977,6.7,6241,30.0,101,1970s
+Far from Heaven,Romance,1992,7.1,5310,40.0,136,1990s
+An Affair to Remember,Romance,1983,7.4,268013,248.2,119,1980s
+The English Patient,Romance,1996,6.4,13457,79.0,113,1990s
+The Choice,Romance,2023,6.4,77531,204.4,87,2020s
+Brokeback Mountain,Romance,1998,6.6,3034,72.5,157,1990s
+Below Her Mouth,Romance,2008,6.9,20228,204.1,110,2000s
+Bloomington,Romance,2022,6.3,40985,255.4,167,2020s
+Beginners,Romance,2008,6.5,122955,114.0,158,2000s
+Disobedience,Romance,1970,6.9,6812,0.5,70,1970s
+Disobedience,Romance,1986,6.8,27792,232.5,93,1980s
+Bloomington,Romance,2010,6.7,14005,211.6,84,2010s
+The Lucky One,Romance,1999,5.4,1351,62.4,108,1990s
+Fingersmith,Romance,2022,6.9,24163,165.3,114,2020s
+Call Me by Your Name,Romance,1982,5.9,24172,23.8,115,1980s
+My Summer of Love,Romance,1990,7.5,98936,249.2,136,1990s
+D.E.B.S.,Romance,1988,6.4,12134,85.5,147,1980s
+Saving Face,Romance,2022,6.1,4312,61.3,134,2020s
+Chicago,Romance,1988,6.6,1117,138.4,95,1980s
+Far from Heaven,Romance,1994,7.7,9113,125.2,90,1990s
+Gray Matters,Romance,1991,7.2,5915,91.4,110,1990s
+Me Before You,Romance,2000,6.9,32444,126.2,120,2000s
+Elisa & Marcela,Romance,1986,5.6,7270,88.4,105,1980s
+The Best of Me,Romance,1992,8.0,126064,103.5,76,1990s
+Therese and Isabelle,Romance,2001,6.3,158415,212.3,127,2000s
+Blue Is the Warmest Color,Romance,1979,7.4,18682,187.4,100,1970s
+My Summer of Love,Romance,1979,6.4,96772,84.9,99,1970s
+Making Love,Romance,2005,7.4,32410,123.8,108,2000s
+Romeo + Juliet,Romance,1977,7.7,14400,151.0,104,1970s
+Portrait of a Lady on Fire,Romance,2023,7.4,3334,253.6,100,2020s
+Affinity,Romance,2021,7.5,10608,245.9,77,2020s
+Nights in Rodanthe,Romance,1989,6.6,15118,190.3,107,1980s
+Elisa & Marcela,Romance,2001,6.4,56111,104.4,127,2000s
+Ammonite,Romance,2019,7.0,11481,3.3,116,2010s
+Oranges Are Not the Only Fruit,Romance,1983,6.4,71920,186.5,133,1980s
+Carol,Romance,2019,8.8,22753,240.8,91,2010s
+See Me,Romance,1997,5.9,2564,148.4,78,1990s
+The Choice,Romance,2015,7.6,662796,298.2,103,2010s
+Desert Hearts,Romance,2021,7.3,13455,339.3,94,2020s
+Love Rosie,Romance,2022,7.0,8362,143.4,97,2020s
+Go Fish,Romance,1993,7.9,21484,191.6,115,1990s
+Far from Heaven,Romance,1984,6.9,2097,214.8,97,1980s
+The Choice,Romance,1991,6.2,19769,62.5,78,1990s
+Cold Mountain,Romance,1973,6.5,8824,68.3,118,1970s
+After,Romance,1982,7.1,134110,136.7,126,1980s
+Loving Annabelle,Romance,1992,7.4,13239,149.2,126,1990s
+Love Rosie,Romance,1977,5.9,4085,48.8,120,1970s
+The English Patient,Romance,1987,7.6,10621,106.5,105,1980s
+My Summer of Love,Romance,1981,6.5,87675,161.9,120,1980s
+Tipping the Velvet,Romance,2000,7.1,3256,240.3,108,2000s
+Everything Everything,Romance,1983,7.2,3981,232.6,112,1980s
+Five Feet Apart,Romance,2003,7.1,675,134.7,86,2000s
+Love Simon,Romance,1987,6.6,691,175.6,111,1980s
+Casablanca,Romance,2003,6.4,45517,149.8,119,2000s
+The Notebook,Romance,1980,6.4,28628,73.8,118,1980s
+Love Simon,Romance,2010,8.1,7292,256.1,77,2010s
+Chicago,Romance,1981,6.0,24962,56.2,112,1980s
+Cold Mountain,Romance,2018,6.3,8465,127.0,73,2010s
+Doctor Zhivago,Romance,1984,6.1,133842,18.2,114,1980s
+Imagine Me & You,Romance,2000,6.9,175103,124.1,92,2000s
+Below Her Mouth,Romance,2018,5.6,8391,136.8,152,2010s
+Casablanca,Romance,1998,5.7,52705,195.7,112,1990s
+Everything Everything,Romance,1995,6.5,34260,108.8,130,1990s
+The Choice,Romance,1987,5.7,6113,26.1,162,1980s
+Oranges Are Not the Only Fruit,Romance,2001,5.8,4349,199.0,89,2000s
+Fingersmith,Romance,1991,5.7,10594,62.9,120,1990s
+Longest Ride,Romance,2007,6.1,35605,23.5,80,2000s
+Titanic,Romance,1986,7.3,151977,159.2,118,1980s
+Safe Haven,Romance,1992,7.5,32808,146.9,154,1990s
+The Kids Are All Right,Romance,1993,8.3,53032,337.6,94,1990s
+Summerland,Romance,2019,8.4,17529,263.3,87,2010s
+An Affair to Remember,Romance,1977,7.3,47092,131.6,107,1970s
+Love Rosie,Romance,2010,7.6,36127,136.5,161,2010s
+Portrait of a Lady on Fire,Romance,1975,6.7,7917,133.8,129,1970s
+Bloomington,Romance,1974,7.0,14658,212.2,87,1970s
+Breakfast at Tiffany's,Romance,2013,8.4,39925,246.3,146,2010s
+La La Land,Romance,1998,7.0,1138,102.8,70,1990s
+Imagine Me & You,Romance,1997,7.7,40610,212.7,163,1990s
+The World to Come,Romance,1980,5.9,3289,85.1,131,1980s
+Beginners,Romance,1970,6.1,12885,110.9,154,1970s
+Safe Haven,Romance,2012,7.1,40651,153.1,70,2010s
+Beginners,Romance,1988,6.8,4810,110.9,114,1980s
+Gray Matters,Romance,1978,6.1,4638,68.5,106,1970s
+Elena Undone,Romance,1996,8.7,8701,275.7,84,1990s
+A Walk to Remember,Romance,2003,6.9,70157,133.5,77,2000s
+Oranges Are Not the Only Fruit,Romance,2013,6.5,505,124.0,122,2010s
+Moonlight,Romance,1973,6.7,74197,55.1,124,1970s
+Message in a Bottle,Romance,2005,6.8,2855,181.2,142,2000s
+Safe Haven,Romance,1987,6.8,413886,151.1,97,1980s
+A Walk to Remember,Romance,1984,5.4,138226,45.9,106,1980s
+Imagine Me & You,Romance,2020,7.9,12024,173.4,75,2020s
+Oranges Are Not the Only Fruit,Romance,1982,7.7,12798,275.0,148,1980s
+Oranges Are Not the Only Fruit,Romance,1988,7.9,11490,64.8,111,1980s
+Chicago,Romance,2018,7.1,19691,211.2,128,2010s
+Desert Hearts,Romance,1975,7.2,1809,211.5,128,1970s
+Me Before You,Romance,2017,6.1,947,0.5,146,2010s
+Revenge of the Sith,Sci-Fi,1983,6.6,11189,157.1,122,1980s
+Revenge of the Sith,Sci-Fi,2007,6.3,26832,189.5,119,2000s
+Arrival,Sci-Fi,2019,7.2,5190,151.3,119,2010s
+Star Trek (2009),Sci-Fi,1970,6.9,3751,123.4,70,1970s
+Star Trek,Sci-Fi,2007,9.2,6208,369.6,103,2000s
+Source Code,Sci-Fi,2007,7.6,4546,158.1,131,2000s
+The Thing,Sci-Fi,1990,6.1,4000,44.5,108,1990s
+Star Wars: A New Hope,Sci-Fi,2017,6.9,9418,261.3,74,2010s
+Signs,Sci-Fi,1998,8.1,78523,315.4,108,1990s
+Star Trek Beyond,Sci-Fi,1974,8.8,12550,197.0,152,1970s
+The Rise of Skywalker,Sci-Fi,2018,6.1,3477,202.3,141,2010s
+Cosmopolis,Sci-Fi,1979,5.6,1596,155.3,108,1970s
+Terminator: Dark Fate,Sci-Fi,1997,8.7,24751,175.9,133,1990s
+The Empire Strikes Back,Sci-Fi,1990,7.5,8089,134.9,100,1990s
+Looper,Sci-Fi,2019,6.7,43664,240.7,70,2010s
+Inception,Sci-Fi,1976,7.6,21516,252.3,86,1970s
+The Thing from Another World,Sci-Fi,1972,5.0,38258,76.2,149,1970s
+Star Wars: A New Hope,Sci-Fi,2014,7.3,5212,132.0,103,2010s
+Terminator: Genisys,Sci-Fi,2016,7.6,24386,318.4,103,2010s
+Total Recall,Sci-Fi,1989,7.9,5035,146.9,102,1980s
+Source Code,Sci-Fi,1988,6.4,109662,97.5,157,1980s
+Star Trek VI,Sci-Fi,2004,7.3,19757,193.3,150,2000s
+Star Trek IV,Sci-Fi,1973,6.4,6478,192.8,165,1970s
+Star Trek V,Sci-Fi,1974,7.3,5157,188.0,106,1970s
+Star Trek Beyond,Sci-Fi,1970,6.4,3534,120.9,117,1970s
+Maps to the Stars,Sci-Fi,1973,6.8,24605,143.4,72,1970s
+Star Trek III,Sci-Fi,1981,6.4,4077,111.8,146,1980s
+Star Trek: The Wrath of Khan,Sci-Fi,1996,7.8,17054,216.7,80,1990s
+T3: Rise of the Machines,Sci-Fi,2011,8.0,5048,57.4,115,2010s
+E.T.,Sci-Fi,1992,7.0,21715,128.6,82,1990s
+Star Trek: Nemesis,Sci-Fi,1994,7.3,42086,175.3,95,1990s
+Ghost in the Shell,Sci-Fi,1990,6.0,35054,34.9,89,1990s
+Forbidden Planet,Sci-Fi,2021,7.1,32410,208.4,94,2020s
+Star Trek VI,Sci-Fi,1993,7.2,3473,143.3,96,1990s
+Star Trek (2009),Sci-Fi,1994,9.3,1772,346.1,96,1990s
+The Last Jedi,Sci-Fi,2014,6.4,25024,243.2,130,2010s
+Star Trek III,Sci-Fi,2015,8.5,7667,206.1,82,2010s
+The Fly,Sci-Fi,2001,8.1,9672,192.1,115,2000s
+Chappie,Sci-Fi,2001,7.5,926,172.8,140,2000s
+Metropolis,Sci-Fi,2005,7.6,962,197.7,92,2000s
+Alita: Battle Angel,Sci-Fi,2015,7.6,62337,152.5,104,2010s
+Mars Attacks!,Sci-Fi,2011,7.3,4587,113.4,139,2010s
+The Force Awakens,Sci-Fi,2018,8.3,14933,267.0,114,2010s
+The Fly,Sci-Fi,2011,8.2,1037,255.0,96,2010s
+Edge of Tomorrow,Sci-Fi,2008,6.8,22116,109.3,122,2000s
+Eastern Promises,Sci-Fi,1985,6.1,6440,155.7,82,1980s
+Star Trek (2009),Sci-Fi,2002,7.1,72065,124.5,127,2000s
+Annihilation,Sci-Fi,2018,6.7,66637,180.8,120,2010s
+Eastern Promises,Sci-Fi,1990,7.1,6498,197.2,102,1990s
+Star Trek,Sci-Fi,1978,8.1,73931,171.6,89,1970s
+Total Recall,Sci-Fi,1975,6.8,795768,145.3,87,1970s
+Rogue One,Sci-Fi,2020,7.3,44526,161.0,123,2020s
+District 9,Sci-Fi,2014,7.4,49773,177.0,140,2010s
+Ghost in the Shell,Sci-Fi,2004,7.9,4706,184.4,94,2000s
+Scanners,Sci-Fi,2008,5.5,15975,60.8,121,2000s
+Star Trek: Insurrection,Sci-Fi,1991,6.7,1450,122.6,70,1990s
+The Matrix,Sci-Fi,2010,7.5,1874,95.1,95,2010s
+The Thing,Sci-Fi,2023,8.3,1849015,206.1,109,2020s
+Neon Genesis Evangelion,Sci-Fi,1974,6.7,6533,95.7,87,1970s
+The Martian,Sci-Fi,2011,5.8,30654,105.8,86,2010s
+Close Encounters of the Third Kind,Sci-Fi,1992,7.7,40316,159.9,93,1990s
+A History of Violence,Sci-Fi,1986,6.7,53988,123.5,117,1980s
+The Thing from Another World,Sci-Fi,1981,6.2,1105078,130.0,105,1980s
+Arrival,Sci-Fi,1992,6.7,4546,186.9,70,1990s
+Star Trek: The Wrath of Khan,Sci-Fi,1985,7.0,1056,99.0,70,1980s
+Elysium,Sci-Fi,1972,6.6,8969,34.2,94,1970s
+The Empire Strikes Back,Sci-Fi,1999,5.5,2447,32.3,121,1990s
+Signs,Sci-Fi,1991,7.9,804,152.0,70,1990s
+Solo,Sci-Fi,1978,8.2,7442,156.5,97,1970s
+Ex Machina,Sci-Fi,1998,7.8,36010,139.4,96,1990s
+Eastern Promises,Sci-Fi,2016,6.4,15399,73.4,144,2010s
+Independence Day,Sci-Fi,2006,7.1,6182,139.8,100,2000s
+District 9,Sci-Fi,1992,7.2,21106,165.3,119,1990s
+Cosmopolis,Sci-Fi,1982,7.6,4348,194.1,113,1980s
+Blade Runner,Sci-Fi,2001,7.8,694,155.8,70,2000s
+Chappie,Sci-Fi,2015,6.7,32923,137.2,129,2010s
+Mars Attacks!,Sci-Fi,2021,7.4,18874,141.6,115,2020s
+Elysium,Sci-Fi,2016,7.7,32621,201.3,122,2010s
+Star Trek III,Sci-Fi,2017,8.5,1036,185.5,208,2010s
+Rogue One,Sci-Fi,1992,7.8,47558,212.8,70,1990s
+Solo,Sci-Fi,2014,8.0,18590,105.6,153,2010s
+Crash,Sci-Fi,1986,7.2,15251,125.6,102,1980s
+Minority Report,Sci-Fi,2009,8.4,18933,240.9,117,2000s
+The Terminator,Sci-Fi,1971,6.4,16559,258.8,99,1970s
+Moon,Sci-Fi,2006,8.4,16215,240.2,95,2000s
+Mars Attacks!,Sci-Fi,1975,7.7,432071,93.8,118,1970s
+Men in Black,Sci-Fi,2013,7.0,31822,165.9,72,2010s
+Scanners,Sci-Fi,1987,6.8,10018,25.8,128,1980s
+Inception,Sci-Fi,1999,7.5,25877,170.0,99,1990s
+Possessor,Sci-Fi,1991,7.6,8282,119.2,81,1990s
+Gravity,Sci-Fi,2023,7.5,4283,258.5,98,2020s
+Chappie,Sci-Fi,2002,7.5,17148,145.4,141,2000s
+Signs,Sci-Fi,1999,8.6,96255,211.8,96,1990s
+The Day the Earth Stood Still,Sci-Fi,1986,8.0,97295,141.1,118,1980s
+2001: A Space Odyssey,Sci-Fi,2001,8.0,13476,177.9,128,2000s
+War of the Worlds,Sci-Fi,2011,6.5,3935,259.2,127,2010s
+The Matrix,Sci-Fi,2020,7.7,728869,256.8,156,2020s
+The Haunting of Hill House,Horror,1971,5.5,38442,39.2,151,1970s
+I Know What You Did Last Summer,Horror,1999,6.4,27706,220.7,129,1990s
+Psycho,Horror,1972,6.0,24202,209.3,143,1970s
+Unbreakable,Horror,1990,5.5,6898,26.8,90,1990s
+Scream,Horror,1994,6.2,39968,117.3,90,1990s
+Insidious,Horror,1989,5.8,1230,221.0,118,1980s
+One Missed Call,Horror,2018,6.7,2958,158.3,70,2010s
+Scream (2022),Horror,2021,6.0,6767,143.4,121,2020s
+Dark Water,Horror,1991,5.0,1594,0.5,101,1990s
+Five Nights at Freddy's,Horror,1990,6.2,4410,80.1,143,1990s
+Carrie,Horror,2002,6.2,45711,159.7,126,2000s
+The Village,Horror,2021,5.3,124522,259.0,137,2020s
+Five Nights at Freddy's,Horror,2007,6.7,5980,140.6,91,2000s
+Dolores Claiborne,Horror,1984,6.5,5046,17.0,136,1980s
+A Tale of Two Sisters,Horror,2015,5.4,5394,25.7,146,2010s
+Pulse,Horror,2021,5.6,5344,123.1,109,2020s
+The Visit,Horror,1984,5.9,993,163.4,91,1980s
+Ti West,Horror,2015,5.5,94915,152.2,91,2010s
+The Mist,Horror,1994,6.5,3976,156.4,140,1990s
+Psycho,Horror,1990,6.1,9257,186.5,177,1990s
+Dreamcatcher,Horror,1993,5.1,630,28.4,85,1990s
+I Know What You Did Last Summer,Horror,1974,5.3,53964,57.9,83,1970s
+Ti West,Horror,1975,6.9,28513,90.8,133,1970s
+A Tale of Two Sisters,Horror,2018,7.4,121813,177.3,91,2010s
+The Conjuring,Horror,2012,6.5,35650,90.0,135,2010s
+Insidious,Horror,2017,6.0,6205,115.8,121,2010s
+Battle Royale,Horror,2013,5.8,4682,121.9,109,2010s
+Unbreakable,Horror,2016,6.6,24903,136.9,121,2010s
+The Happening,Horror,1992,6.1,7546,100.7,119,1990s
+Five Nights at Freddy's,Horror,1973,4.6,15401,51.9,105,1970s
+Lights Out,Horror,1996,6.9,583,221.5,70,1990s
+Sinister,Horror,1987,7.1,1370,223.1,114,1980s
+Final Destination,Horror,1990,6.6,13839,173.7,149,1990s
+It,Horror,1997,5.2,15394,4.8,70,1990s
+Scream 3,Horror,2004,5.6,31093,83.2,85,2000s
+Final Destination,Horror,1991,4.5,2478,28.7,120,1990s
+Get Out,Horror,2009,7.4,12818,143.4,110,2000s
+The Blair Witch Project,Horror,1992,5.7,3601,114.9,120,1990s
+The Ring,Horror,1972,7.8,1847,58.7,92,1970s
+The Visit,Horror,2009,7.7,8947,296.4,139,2000s
+Final Destination,Horror,2019,5.4,3024,186.5,111,2010s
+I Know What You Did Last Summer,Horror,1979,5.4,4139,95.5,127,1970s
+Ti West,Horror,1994,6.4,6301,121.1,118,1990s
+The Exorcist,Horror,2021,4.8,4932,166.9,114,2020s
+The Curse of La Llorona,Horror,2018,5.8,1760,171.0,125,2010s
+Book of Shadows,Horror,1977,5.5,1796,134.8,114,1970s
+M3GAN,Horror,1980,7.4,3578,144.5,80,1980s
+Annabelle: Creation,Horror,1974,6.0,1203,192.2,137,1970s
+Pulse,Horror,2014,5.9,19059,198.8,130,2010s
+Cloverfield,Horror,2022,5.7,5567,161.0,70,2020s
+Dark Water,Horror,2006,6.8,5390,230.6,93,2000s
+The Village,Horror,2014,5.7,6672,95.7,136,2010s
+V/H/S,Horror,2007,6.0,21782,54.3,70,2000s
+Friday the 13th,Horror,1998,5.5,58689,112.9,133,1990s
+The Conjuring,Horror,1974,4.7,32156,29.4,106,1970s
+The House of the Devil,Horror,1978,5.1,28086,41.7,143,1970s
+The Omen,Horror,2017,5.7,11604,197.4,109,2010s
+Children of the Corn,Horror,1971,5.7,24524,79.2,91,1970s
+I Know What You Did Last Summer,Horror,1970,5.7,14698,83.8,117,1970s
+Cloverfield,Horror,2009,6.0,4027,107.2,109,2000s
+Blumhouse,Horror,2020,5.8,3875,184.9,89,2020s
+The Village,Horror,1999,7.1,5781,200.9,165,1990s
+It Chapter Two,Horror,1980,6.7,80683,172.4,85,1980s
+Hell House LLC,Horror,1997,5.9,14428,78.6,70,1990s
+Nope,Horror,2013,6.3,28843,221.8,149,2010s
+Audition,Horror,1981,5.7,7059,191.5,95,1980s
+Shirley Jackson,Horror,2008,3.8,8858,88.1,102,2000s
+Noroi,Horror,1995,6.0,2371,61.4,101,1990s
+The Innkeepers,Horror,1982,6.2,3168,54.3,95,1980s
+Misery,Horror,1977,4.6,45005,9.9,90,1970s
+One Missed Call,Horror,2023,6.6,16437,133.7,85,2020s
+Poltergeist,Horror,1997,5.8,6818,100.1,111,1990s
+The Visit,Horror,1999,6.3,39542,164.7,99,1990s
+Audition,Horror,1978,5.7,4653,95.0,128,1970s
+The Texas Chain Saw Massacre,Horror,2000,6.2,7012,109.5,86,2000s
+Audition,Horror,1990,6.8,6812,131.6,112,1990s
+Final Destination,Horror,2016,7.0,6160,223.0,99,2010s
+The House of the Devil,Horror,2003,5.2,2314,0.5,85,2000s
+V/H/S,Horror,2000,5.5,2134,95.3,127,2000s
+Pet Sematary,Horror,2021,6.5,20625,178.5,106,2020s
+The Purge,Horror,1994,5.7,60550,143.8,99,1990s
+Cloverfield,Horror,1981,5.8,37202,24.6,88,1980s
+Scream 4,Horror,1970,6.9,2634,52.2,84,1970s
+Hush,Horror,1991,5.8,14337,132.2,159,1990s
+The Innkeepers,Horror,2009,5.3,2044,0.5,118,2000s
+Happy Death Day,Horror,2006,5.4,1127,179.1,82,2000s
+Nope,Horror,2016,7.9,21267,224.8,117,2010s
+Signs,Horror,1970,5.8,13829,165.5,136,1970s
+Knock at the Cabin,Horror,1970,4.8,1674,0.5,114,1970s
+Scream,Horror,2011,4.7,979,51.0,144,2010s
+Split,Horror,2023,5.7,404528,0.5,71,2020s
+Christine,Horror,2011,5.9,910,77.5,70,2010s
+Signs,Horror,1990,6.8,10097,125.0,116,1990s
+Friday the 13th,Horror,1984,6.7,12445,7.0,116,1980s
+Signs,Horror,1986,6.0,2234,75.5,70,1980s
+M3GAN,Horror,1991,5.6,3128,0.5,94,1990s
+Scream VI,Horror,2007,6.4,7202,125.0,84,2000s
+The Exorcist,Horror,2004,4.7,32529,137.6,75,2000s
+Lady in the Water,Horror,2014,7.7,12551,198.7,84,2010s
+Big Hero 6,Animation,1982,7.2,4116,170.8,87,1980s
+Spirited Away,Animation,1972,8.0,2583,218.6,117,1970s
+Lilo & Stitch,Animation,2017,6.5,54366,97.7,122,2010s
+Kung Fu Panda 2,Animation,1978,6.2,12250,182.0,98,1970s
+Kiki's Delivery Service,Animation,1983,7.1,22800,161.3,89,1980s
+Frozen II,Animation,1982,8.4,4495,226.9,112,1980s
+Soul,Animation,2022,7.3,32007,181.1,104,2020s
+Zootopia,Animation,1976,8.8,32288,143.5,115,1970s
+Toy Story 2,Animation,1984,8.5,6177,201.2,149,1980s
+Kung Fu Panda,Animation,1976,7.8,8953,170.4,111,1970s
+Grave of the Fireflies,Animation,2007,8.0,3897,121.3,94,2000s
+The Red Turtle,Animation,2003,7.9,224695,243.2,87,2000s
+Finding Nemo,Animation,2010,7.8,20436,259.8,88,2010s
+Inside Out 2,Animation,1991,7.3,103639,113.4,73,1990s
+Incredibles 2,Animation,1993,7.4,5950,102.2,133,1990s
+Encanto,Animation,2018,6.9,35696,155.4,70,2010s
+Ponyo,Animation,2006,5.9,33147,120.6,122,2000s
+A Bug's Life,Animation,2013,8.6,24320,219.7,88,2010s
+Up,Animation,1970,7.6,169728,140.3,97,1970s
+Whisper of the Heart,Animation,1979,7.5,8414,164.1,87,1970s
+"Panda! Go, Panda!",Animation,2012,8.0,2457,128.3,146,2010s
+Wish,Animation,1985,6.9,22526,58.8,110,1980s
+Monsters University,Animation,2015,6.9,28294,6.7,129,2010s
+Incredibles 2,Animation,1977,7.3,15884,197.0,142,1970s
+Meet the Robinsons,Animation,2018,8.8,3840,250.5,114,2010s
+The Wind Rises,Animation,1994,6.7,12438,199.7,80,1990s
+Princess Mononoke,Animation,2019,5.6,6167,54.5,104,2010s
+Aladdin,Animation,1981,7.1,9506,138.7,91,1980s
+Soul,Animation,1994,8.5,20407,221.7,97,1990s
+Tarzan,Animation,1986,6.2,30263,73.5,107,1980s
+The Red Turtle,Animation,1995,6.7,4352,44.8,106,1990s
+My Neighbor Totoro,Animation,2015,7.9,8782,314.8,120,2010s
+Only Yesterday,Animation,2017,9.8,5149,372.4,123,2010s
+Coco,Animation,1983,6.5,3681,92.7,106,1980s
+Puss in Boots: The Last Wish,Animation,2010,6.6,35950,182.6,120,2010s
+WALL-E,Animation,2005,7.9,79539,168.9,96,2000s
+Ratatouille,Animation,1992,8.6,7721,150.7,142,1990s
+Lilo & Stitch,Animation,2012,7.2,31069,288.0,95,2010s
+Incredibles 2,Animation,1975,6.2,71517,0.5,139,1970s
+Brother Bear,Animation,2016,8.1,50149,202.1,73,2010s
+Howl's Moving Castle,Animation,1974,8.0,3381,169.9,100,1970s
+Ralph Breaks the Internet,Animation,2012,9.1,141683,353.5,101,2010s
+Puss in Boots: The Last Wish,Animation,1994,8.1,7908,246.6,116,1990s
+Ralph Breaks the Internet,Animation,1987,8.2,6863,88.1,131,1980s
+Kung Fu Panda 3,Animation,1982,7.4,1378,150.2,78,1980s
+Hols: Prince of the Sun,Animation,2012,9.7,11675,279.7,82,2010s
+Winnie the Pooh,Animation,1983,7.2,2099,129.9,74,1980s
+Soul,Animation,1997,7.1,4696,193.6,143,1990s
+Kiki's Delivery Service,Animation,1987,9.0,6286,135.9,117,1980s
+Inside Out 2,Animation,1997,6.5,40766,107.9,82,1990s
+Toy Story 3,Animation,2020,6.3,60709,180.7,98,2020s
+The Emperor's New Groove,Animation,1996,7.7,5928,220.0,139,1990s
+Bee Movie,Animation,2001,7.7,54222,194.2,103,2000s
+Hercules,Animation,2016,7.5,53716,177.9,101,2010s
+The Tale of the Princess Kaguya,Animation,1978,8.3,32967,174.4,90,1970s
+From Up on Poppy Hill,Animation,2009,7.0,2731,211.2,84,2000s
+Up,Animation,2001,7.7,24194,187.2,139,2000s
+"Monsters, Inc.",Animation,1989,7.3,118829,92.3,151,1980s
+Beauty and the Beast,Animation,1997,6.9,23477,74.4,85,1990s
+The Lion King,Animation,2002,7.6,6662,93.0,145,2000s
+Whisper of the Heart,Animation,1973,8.2,12272,258.9,97,1970s
+Lilo & Stitch,Animation,2015,9.4,20445,318.4,123,2010s
+Luca,Animation,2003,8.1,12703,197.2,145,2000s
+Hols: Prince of the Sun,Animation,2017,5.7,2278,97.2,106,2010s
+The Incredibles,Animation,1972,7.5,6164,108.0,101,1970s
+Frozen,Animation,1995,7.7,39452,243.6,130,1990s
+Kung Fu Panda 2,Animation,1977,8.3,55183,294.7,82,1970s
+Frozen,Animation,1975,7.7,2569,117.7,138,1970s
+Inside Out 2,Animation,1985,8.6,132745,270.3,113,1980s
+Mulan,Animation,1993,7.9,6589,185.3,95,1990s
+Brother Bear,Animation,2017,9.0,21743,243.7,94,2010s
+Encanto,Animation,2008,7.3,31143,267.9,75,2000s
+Up,Animation,1999,7.8,41431,186.2,96,1990s
+The Wind Rises,Animation,2014,8.4,120060,246.6,103,2010s
+Monsters University,Animation,1974,6.9,54155,23.3,108,1970s
+My Neighbor Totoro,Animation,1994,7.1,2474,170.1,121,1990s
+Madagascar,Animation,1989,7.0,25635,109.0,104,1980s
+The Cat Returns,Animation,2023,8.2,29846,146.3,126,2020s
+Monsters University,Animation,1987,6.1,23047,73.4,89,1980s
+Shrek the Third,Animation,2016,6.5,4778,123.7,135,2010s
+Cars 2,Animation,1987,9.1,59675,286.2,113,1980s
+Kiki's Delivery Service,Animation,1971,6.9,3124,53.4,148,1970s
+Ponyo,Animation,1979,7.7,1248,111.4,170,1970s
+WALL-E,Animation,2014,6.5,26949,166.9,98,2010s
+The Shrek,Animation,2019,7.8,11250,131.3,99,2010s
+Grave of the Fireflies,Animation,2016,7.2,51061,143.7,103,2010s
+Wreck-It Ralph,Animation,1981,6.3,8107,5.3,124,1980s
+Pom Poko,Animation,2016,8.8,3114,302.4,143,2010s
+Pom Poko,Animation,1982,8.5,47372,176.3,93,1980s
+Over the Hedge,Animation,2019,7.7,14503,205.8,119,2010s
+Lightyear,Animation,2016,8.5,3501,290.2,106,2010s
+Nausicaä,Animation,1980,9.1,27272,172.7,125,1980s
+Beauty and the Beast,Animation,1988,8.2,12727,170.9,147,1980s
+Bee Movie,Animation,2004,8.1,17607,141.4,103,2000s
+Wreck-It Ralph,Animation,2008,7.8,10693,134.1,70,2000s
+Luca,Animation,2022,8.3,45344,179.2,128,2020s
+Pom Poko,Animation,1995,7.3,45560,132.5,89,1990s
+Kung Fu Panda 2,Animation,2015,7.5,26084,170.9,106,2010s
+The Tale of the Princess Kaguya,Animation,1983,7.9,2041,188.9,129,1980s
+Don't Look Back,Documentary,1972,8.7,29414,331.3,98,1970s
+Letters from Iwo Jima,Documentary,1974,7.7,1398,109.8,114,1970s
+Band of Brothers,Documentary,1992,6.8,8222,113.4,147,1990s
+Which Way Is the Front Line from Here?,Documentary,2022,7.6,5460,202.6,125,2020s
+Free Solo,Documentary,2006,7.6,5977,210.9,122,2000s
+Senna,Documentary,1978,7.8,282375,177.4,99,1970s
+Patton,Documentary,1984,6.4,20225,189.8,72,1980s
+Earthlings,Documentary,1972,7.9,26972,12.8,104,1970s
+Cowspiracy,Documentary,1998,5.4,225089,0.5,140,1990s
+The Eyes of Tammy Faye,Documentary,1975,6.9,7924,92.2,71,1970s
+Jordan Rides the Bus,Documentary,1986,7.1,39341,209.0,83,1980s
+Band of Brothers,Documentary,1995,8.0,9747,96.1,113,1990s
+The Invisible War,Documentary,1990,7.5,58249,0.5,85,1990s
+ESPN 30 for 30,Documentary,1977,6.3,3341,134.7,90,1970s
+Free Solo,Documentary,1990,6.7,123483,146.6,99,1990s
+Band of Brothers,Documentary,1980,7.6,4078,90.6,75,1980s
+The House I Live In,Documentary,2007,7.5,6522,125.3,85,2000s
+Don't Look Back,Documentary,1977,7.0,31746,70.2,127,1970s
+The Book of Manning,Documentary,2011,7.2,8421,183.8,77,2010s
+Korengal,Documentary,1993,8.1,17853,154.0,70,1990s
+Fahrenheit 9/11,Documentary,2004,7.2,10099,198.4,94,2000s
+Letters from Iwo Jima,Documentary,1983,7.4,29896,0.5,128,1980s
+What the Health,Documentary,1979,6.3,1319,35.2,98,1970s
+The Last Waltz,Documentary,1981,6.0,5866,77.8,111,1980s
+The Last Dance,Documentary,2007,8.2,11205,180.1,70,2000s
+The Waiting Room,Documentary,2013,7.1,3109,223.5,122,2010s
+OJ: Made in America,Documentary,2015,7.4,7285,78.4,119,2010s
+Man on Wire,Documentary,2003,6.9,8613,158.3,99,2000s
+Band of Brothers,Documentary,2010,7.4,1303,217.5,135,2010s
+Gimme Shelter,Documentary,1979,8.7,16349,310.2,81,1970s
+Blackfish,Documentary,1986,8.1,64752,154.3,138,1980s
+What the Health,Documentary,1986,8.2,2819,206.7,113,1980s
+On the Record,Documentary,1972,6.3,17206,0.5,101,1970s
+The Book of Manning,Documentary,2000,6.6,21942,0.5,109,2000s
+Shut Up & Sing,Documentary,2020,5.4,9235,166.7,107,2020s
+Bowling for Columbine,Documentary,1970,6.8,25238,111.7,140,1970s
+What the Health,Documentary,1981,8.2,8954,251.9,83,1980s
+Dominion,Documentary,2008,8.0,12445,123.2,90,2000s
+Four Falls of Buffalo,Documentary,1973,7.2,598,162.8,135,1970s
+A Bridge Too Far,Documentary,2011,7.6,24326,305.3,95,2010s
+Don't Look Back,Documentary,1982,6.9,21664,155.6,132,1980s
+Four Falls of Buffalo,Documentary,2003,7.7,1028,204.2,152,2000s
+The Eyes of Tammy Faye,Documentary,2011,8.2,7664,217.7,99,2010s
+Don't Look Back,Documentary,1990,6.2,243520,17.7,127,1990s
+The Thin Red Line,Documentary,1991,7.7,9281,254.5,81,1990s
+ESPN 30 for 30,Documentary,1973,8.2,12330,134.9,128,1970s
+Icarus,Documentary,1987,7.2,80035,178.7,114,1980s
+Korengal,Documentary,1974,8.0,26927,71.0,121,1970s
+Athlete A,Documentary,1988,9.7,16278,178.8,93,1980s
+Don't Look Back,Documentary,1971,7.3,38556,219.3,70,1970s
+Magic & Bird: A Courtship of Rivals,Documentary,1981,7.8,56262,144.4,122,1980s
+Won't You Be My Neighbor?,Documentary,1986,6.9,10544,222.4,70,1980s
+Forks Over Knives,Documentary,1979,7.6,11236,150.1,102,1970s
+DiG!,Documentary,2003,7.9,8186,85.1,133,2000s
+Band of Brothers,Documentary,1975,7.6,173750,203.5,114,1970s
+"Food, Inc.",Documentary,1977,6.6,24850,77.0,158,1970s
+Das Boot,Documentary,2020,7.8,1692,253.9,135,2020s
+The Eyes of Tammy Faye,Documentary,1980,8.6,55742,197.5,93,1980s
+Fed Up,Documentary,1981,7.8,11450,72.6,110,1980s
+Don't Look Back,Documentary,1978,8.2,1472,187.5,108,1970s
+Amy,Documentary,1971,7.2,14543,261.0,70,1970s
+I'm Still Here,Documentary,1977,8.0,9163,198.0,86,1970s
+The Pacific,Documentary,1980,7.7,61695,156.5,95,1980s
+Triumph of the Will,Documentary,2022,6.9,3785,242.9,70,2020s
+Senna,Documentary,2005,7.8,44784,206.6,111,2000s
+Broke,Documentary,1979,6.7,14951,131.4,103,1970s
+Searching for the Wrong-Eyed Jesus,Documentary,1990,7.0,1262,78.5,70,1990s
+The Pacific,Documentary,1989,7.6,196603,180.8,120,1980s
+Won't You Be My Neighbor?,Documentary,2017,7.9,12793,274.5,127,2010s
+Dominion,Documentary,1977,6.5,5650,58.2,115,1970s
+Allen v. Farrow,Documentary,2005,8.4,11015,303.5,101,2000s
+Letters from Iwo Jima,Documentary,1998,8.0,53931,188.1,124,1990s
+Free Solo,Documentary,2011,7.0,5987,115.9,127,2010s
+The House I Live In,Documentary,1981,6.2,3567,161.1,117,1980s
+"Food, Inc.",Documentary,1983,7.3,2430,130.4,89,1980s
+Triumph of the Will,Documentary,2017,7.3,5817,234.0,116,2010s
+Senna,Documentary,2023,7.8,35388,198.1,139,2020s
+What the Health,Documentary,2019,7.4,11101,191.2,95,2010s
+Capturing the Friedmans,Documentary,1990,5.9,4255,129.6,162,1990s
+Das Boot,Documentary,1991,7.2,3076,170.7,96,1990s
+Bowling for Columbine,Documentary,1990,7.3,6691,36.3,110,1990s
+Hoop Dreams,Documentary,2013,8.1,110886,148.3,93,2010s
+Montage of Heck,Documentary,2019,7.1,6964,238.6,115,2010s
+Seaspiracy,Documentary,1999,8.9,364724,222.9,70,1990s
+"Food, Inc.",Documentary,2008,6.1,11637,98.2,96,2000s
+Korengal,Documentary,1989,8.5,3313,121.3,82,1980s
+Restrepo,Documentary,1993,7.3,68223,94.8,113,1990s
+Four Falls of Buffalo,Documentary,1992,8.2,10673,73.1,134,1990s
+The Pacific,Documentary,1976,7.5,26114,141.1,126,1970s
+Earthlings,Documentary,1978,8.4,291750,149.7,70,1970s
+No Direction Home,Documentary,1995,6.6,1902,129.9,117,1990s
+Which Way Is the Front Line from Here?,Documentary,2007,8.7,27280,254.2,90,2000s
+The Pacific,Documentary,2007,7.5,5438,310.0,113,2000s
+Fahrenheit 9/11,Documentary,2023,7.8,3409,124.9,114,2020s
+Allen v. Farrow,Documentary,2013,8.6,1042,305.2,93,2010s
+Bad Sport,Documentary,1991,6.7,796,191.6,114,1990s
+The Cove,Documentary,2013,8.1,34481,168.9,94,2010s
+PlantPure Nation,Documentary,1979,7.0,2520,143.0,99,1970s
+Pirates of the Caribbean,Adventure,2017,7.2,1501,246.4,140,2010s
+Stand by Me,Adventure,2007,6.9,7473,254.2,109,2000s
+Sinbad: Legend of the Seven Seas,Adventure,2000,6.1,13812,49.6,101,2000s
+Air Bud,Adventure,1983,6.0,805359,48.3,139,1980s
+Pirates of the Caribbean,Adventure,2022,7.8,11213,268.3,107,2020s
+Jurassic Park,Adventure,2002,5.4,42335,162.2,70,2000s
+Ice Age: Collision Course,Adventure,1978,7.1,9662,93.1,72,1970s
+Thumbelina,Adventure,1996,6.8,38287,98.6,120,1990s
+Jurassic World: Fallen Kingdom,Adventure,1993,7.3,17061,120.5,108,1990s
+National Treasure: Book of Secrets,Adventure,1982,6.6,65864,22.1,146,1980s
+Heavyweights,Adventure,1995,7.2,8961,81.7,91,1990s
+Dead Man's Chest,Adventure,1998,6.3,17607,50.8,102,1990s
+A Troll in Central Park,Adventure,2020,7.0,19307,162.4,87,2020s
+Joseph: King of Dreams,Adventure,2018,7.4,9170,209.9,96,2010s
+Kingdom of the Crystal Skull,Adventure,2012,7.1,2689,200.4,70,2010s
+Last Crusade,Adventure,1997,7.2,1853,129.9,100,1990s
+Heavyweights,Adventure,1997,6.2,725,91.4,108,1990s
+Epic,Adventure,1977,6.4,59880,111.8,106,1970s
+Angels & Demons,Adventure,1992,6.5,4441,36.6,163,1990s
+The Goonies,Adventure,1998,6.7,3933,199.2,155,1990s
+The Croods,Adventure,1974,7.9,29103,237.9,91,1970s
+The Land Before Time,Adventure,2011,6.7,6364,119.7,70,2010s
+Joseph: King of Dreams,Adventure,1976,5.9,12506,59.3,107,1970s
+An American Tail,Adventure,2011,7.4,3010,259.8,119,2010s
+D2: The Mighty Ducks,Adventure,2005,8.1,150776,198.6,88,2000s
+The Road to El Dorado,Adventure,2010,6.0,51846,163.3,89,2010s
+Mighty Ducks,Adventure,1996,8.5,56048,205.7,149,1990s
+Angels in the Outfield,Adventure,2015,7.4,8828,283.4,103,2010s
+Atlantis: The Lost Empire,Adventure,1971,7.6,32629,174.6,126,1970s
+Rio 2,Adventure,1994,8.1,2682,225.7,86,1990s
+The Croods: A New Age,Adventure,1978,7.6,615,187.6,108,1970s
+Indiana Jones and the Raiders of the Lost Ark,Adventure,2022,7.0,770,149.1,101,2020s
+Ice Age: Continental Drift,Adventure,1996,7.9,16539,159.4,93,1990s
+Anastasia,Adventure,1970,7.0,10489,166.2,138,1970s
+D3: The Mighty Ducks,Adventure,1992,7.8,13034,186.0,75,1990s
+Angels in the Outfield,Adventure,1979,7.8,600,92.1,117,1970s
+A Troll in Central Park,Adventure,2011,6.1,9346,245.6,101,2010s
+Temple of Doom,Adventure,2021,7.7,27015,267.9,120,2020s
+Heavyweights,Adventure,1994,6.8,10032,143.1,101,1990s
+Air Bud,Adventure,2023,7.2,28640,175.2,131,2020s
+National Treasure: Book of Secrets,Adventure,1972,6.9,4369,130.3,86,1970s
+Temple of Doom,Adventure,1975,6.9,41691,153.1,138,1970s
+Treasure Planet,Adventure,1975,8.0,16646,44.0,109,1970s
+The Sandlot,Adventure,2022,6.0,3918,269.1,76,2020s
+Little Giants,Adventure,1971,5.4,4446,9.8,127,1970s
+Rio 2,Adventure,1987,5.3,19168,72.3,105,1980s
+The Da Vinci Code,Adventure,1992,7.8,45657,180.5,70,1990s
+The Road to El Dorado,Adventure,1971,6.2,9113,209.0,118,1970s
+The Pebble and the Penguin,Adventure,1981,7.0,4908,127.9,135,1980s
+Homeward Bound,Adventure,1991,6.8,57263,232.5,142,1990s
+The Pebble and the Penguin,Adventure,2006,6.3,22319,159.6,100,2000s
+Last Crusade,Adventure,1989,7.6,10224,109.1,113,1980s
+The Mummy,Adventure,2008,6.9,11745,169.7,111,2000s
+Little Giants,Adventure,1993,6.7,3790,128.5,147,1990s
+Ice Age: Collision Course,Adventure,2017,7.2,19083,119.4,89,2010s
+Beethoven,Adventure,1989,7.5,7395,184.3,98,1980s
+The Mummy,Adventure,1970,6.0,730479,81.3,89,1970s
+Jurassic Park,Adventure,1970,7.5,11435,173.4,73,1970s
+The Lost World: Jurassic Park,Adventure,1986,8.0,11664,190.8,116,1980s
+Indiana Jones and the Raiders of the Lost Ark,Adventure,1970,5.7,15382,28.9,150,1970s
+The Lost World: Jurassic Park,Adventure,2022,7.3,85404,240.5,105,2020s
+The Prince of Egypt,Adventure,2021,6.8,39140,135.7,87,2020s
+Last Crusade,Adventure,2014,7.6,10334,10.8,114,2010s
+The Pirates of Dark Water,Adventure,1999,6.0,27085,122.5,124,1990s
+An American Tail: Fievel Goes West,Adventure,2010,8.3,16518,186.8,106,2010s
+Origin,Adventure,2016,5.7,11928,146.1,145,2010s
+At World's End,Adventure,1972,6.6,3560,226.3,89,1970s
+The Land Before Time,Adventure,2015,7.4,10807,311.7,102,2010s
+D2: The Mighty Ducks,Adventure,1980,6.3,4638,94.1,117,1980s
+Dead Man's Chest,Adventure,1993,6.2,83826,66.0,119,1990s
+The Croods,Adventure,1991,7.1,6761,184.3,111,1990s
+Sinbad: Legend of the Seven Seas,Adventure,2013,7.1,132484,153.4,78,2010s
+The Goonies,Adventure,2014,7.0,13729,196.3,168,2010s
+Rookie of the Year,Adventure,1995,7.6,19414,134.3,104,1990s
+An American Tail,Adventure,1982,6.5,14206,129.4,112,1980s
+Angels & Demons,Adventure,1970,7.1,2435,75.3,125,1970s
+Beethoven,Adventure,1993,6.5,7883,198.7,94,1990s
+National Treasure,Adventure,1979,6.2,1941,63.4,111,1970s
+Homeward Bound II: Lost in San Francisco,Adventure,2004,6.7,18820,188.5,93,2000s
+Heavyweights,Adventure,1993,6.5,10181,51.7,120,1990s
+The Land Before Time,Adventure,1997,6.6,35047,183.3,103,1990s
+Beethoven,Adventure,2005,7.9,4112,140.0,116,2000s
+Angels in the Outfield,Adventure,1985,6.7,3046,141.7,83,1980s
+Heavyweights,Adventure,2009,6.5,8813,208.2,89,2000s
+Jurassic World Dominion,Adventure,1985,6.9,94570,122.0,75,1980s
+National Treasure,Adventure,1986,7.0,26193,77.4,92,1980s
+The Goonies,Adventure,2020,6.1,9221,173.8,70,2020s
+An American Tail,Adventure,2023,6.8,13000,125.1,102,2020s
+Rio 2,Adventure,1984,6.6,1708,96.5,96,1980s
+National Treasure: Book of Secrets,Adventure,1985,6.7,303272,141.9,113,1980s
+Jurassic Park,Adventure,1984,7.5,22080,238.4,111,1980s
+Ice Age: Collision Course,Adventure,2003,7.1,5522,165.2,141,2000s
+The Da Vinci Code,Adventure,1980,7.8,16493,165.4,174,1980s
+Epic,Adventure,1970,6.8,2107,156.3,138,1970s
+The Road to El Dorado,Adventure,1984,8.3,170457,191.8,98,1980s
+The Prince of Egypt,Adventure,1995,6.6,3232,172.1,97,1990s
+Homeward Bound II: Lost in San Francisco,Adventure,2020,6.4,20619,220.7,131,2020s
+Ice Age: The Meltdown,Adventure,1973,7.3,4630,115.9,70,1970s
+Quest for Camelot,Adventure,2012,8.1,26960,17.9,102,2010s
+The Croods: A New Age,Adventure,1974,5.7,34857,23.7,104,1970s
